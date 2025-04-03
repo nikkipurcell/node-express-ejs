@@ -2,6 +2,8 @@
 
 Partials are ways you can split out code that can be reusable and imported into different pages. This helps to prevent redundant code.
 
+![Partials Project](partials.png)
+
 ## Partial Examples
 
 EJS partials can be used to create header and footer files that you can include in all your pages (index, about, contact). Similar to a reusable React component.

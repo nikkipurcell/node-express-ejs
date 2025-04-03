@@ -2,6 +2,8 @@
 
 This exercise puts all the above exercises into practice.
 
+![Secrets Project](secrets-project.png)
+
 ## Description of Exercise
 
 Using express, we use path and url middleware to get the base project directory path. We return the index page HTML to the user. (Root page is `/`).
