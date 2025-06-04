@@ -2,7 +2,7 @@
 
 Quiz game on the worlds capital cities built using JS, BE using Node, Express, and PostgreSQL.
 
-![World Capitals Project](wordl_countries.png)
+![World Capitals Project](world_countries.png)
 
 ## Tech details
 
