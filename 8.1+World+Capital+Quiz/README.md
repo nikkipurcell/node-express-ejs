@@ -8,3 +8,7 @@ Quiz game on the worlds capital cities built using JS, BE using Node, Express, a
 
 The PostgreSQL DB is hosted locally on my computer.
 The table is called world.
+
+## To Start Page
+Run `nodemon index.js`
+Open localhost:3000
