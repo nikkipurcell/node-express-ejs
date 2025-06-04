@@ -2,6 +2,9 @@
 
 Quiz game on the worlds flags built using JS, BE using Node, Express, and PostgreSQL.
 
+## The Goal
+To learn to setup db connection and READ data from db into project.
+
 ## Tech details
 
 The PostgreSQL DB is hosted locally on my computer.

@@ -4,6 +4,9 @@ Quiz game on the worlds capital cities built using JS, BE using Node, Express, a
 
 ![World Capitals Project](world_countries.png)
 
+## The Goal
+To learn to setup db connection and READ data from db into project.
+
 ## Tech details
 
 The PostgreSQL DB is hosted locally on my computer.
